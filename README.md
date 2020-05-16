@@ -42,11 +42,11 @@ Handlebars allows me to template my html to add dynamic data
 #### Bootstrap
 Bootstrap was used as a front-end framework to help with building my user interface
 
-#### uuid
-uuid allows me to generate unique IDs for the added members
+#### Uuid
+Uuid allows me to generate unique IDs for the added members
 
-#### nodemon
-nodemon was used in development to allow me to iterate changes to my server
+#### Nodemon
+Nodemon was used in development to allow me to iterate changes to my server
 
-#### moment
-allowed me to track time and date when logging to the terminal
+#### Moment
+Moment allows me to track time and date when logging to the terminal
